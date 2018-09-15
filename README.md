@@ -20,7 +20,7 @@ Clone the repository, then `cd` into its root directory. Install dependencies:
 
 `npm i`
 
-Update your `config.json` file:
+Copy `config-example.json` to `config.json` and edit with your configurations:
 
 ```js
 {
@@ -95,4 +95,3 @@ This table keeps track of all the data needed for the accounts. Columns:
 ## License
 
 Copyright (c) 2018 Darius Kazemi. Licensed under the MIT license.
-

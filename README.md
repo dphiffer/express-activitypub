@@ -35,7 +35,9 @@ Copy `config-example.json` to `config.json` and edit with your configurations:
 
 Run the server!
 
-`node index.js`
+`node activitypub.js`
+
+(On some servers you may need to use `nodejs` instead of `node`.)
 
 Go to the admin page and create an account:
 
